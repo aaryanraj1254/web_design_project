@@ -1,0 +1,70 @@
+{
+	"folders": [
+		{
+			"path": "../../../Documents/WebDevelopmentProjects"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../4.1+Webpages"
+		},
+		{
+			"path": "../4.3 HTML Porfolio Project"
+		},
+		{
+			"path": "../5.1. Adding CSS"
+		},
+		{
+			"path": "../5.3 CSS Selectors"
+		},
+		{
+			"path": "../5.4+Color+Vocab+Project"
+		},
+		{
+			"path": "../6.0 CSS Colors"
+		},
+		{
+			"path": "../../../../Downloads/6.1+Font+Properties (1)"
+		},
+		{
+			"path": "../../../../Downloads/6.3+CSS+Box+Model"
+		},
+		{
+			"path": "../../../../Downloads/6.4+Motivation+Meme+Project"
+		},
+		{
+			"path": "../../../../Downloads/7.0+CSS+Cascade (1)"
+		},
+		{
+			"path": "../../../../Downloads/7.1+Combining+Selectors"
+		},
+		{
+			"path": "../../../../Downloads/7.2+CSS+Positioning"
+		},
+		{
+			"path": "../7.3 CSS Flag Project"
+		},
+		{
+			"path": "../7.2 CSS Positioning"
+		},
+		{
+			"path": "../8.0 CSS Display"
+		},
+		{
+			"path": "../8.1 CSS Float"
+		},
+		{
+			"path": "../8.2 Responsiveness"
+		},
+		{
+			"path": "../8.3 Media Query"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "WebDevelopmentProjects"
+	}
+}
